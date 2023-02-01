@@ -1,5 +1,5 @@
 {
-  "name": "vue2-lib-sample",
+  "name": "@yuki-ite-sp/vue2-lib-sample",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -20,6 +20,9 @@
     "eslint": "^7.32.0",
     "eslint-plugin-vue": "^8.0.3",
     "vue-template-compiler": "^2.6.14"
+  },
+  "publishConfig": {
+    "@yuki-ite-sp:registry": "https://npm.pkg.github.com"
   },
   "eslintConfig": {
     "root": true,
