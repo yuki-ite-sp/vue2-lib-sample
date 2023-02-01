@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <HelloWorld msg="Welcome to Your Vue.js Lib"/>
+    <HelloWorld msg="パッケージを更新してみる"/>
   </div>
 </template>
 
