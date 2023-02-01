@@ -1,6 +1,9 @@
 {
   "name": "@yuki-ite-sp/vue2-lib-sample",
   "version": "0.1.3",
+  "type": "module",
+  "files": ["dist"],
+  "main": "./dist/LibSample.umd.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build --target lib --name LibSample",
