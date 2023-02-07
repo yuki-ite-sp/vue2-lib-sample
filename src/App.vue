@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <HelloWorld msg="パッケージを更新してみる"/>
+    <HelloWorld msg="さらにパッケージを更新してみる"/>
   </div>
 </template>
 
